@@ -1,0 +1,4 @@
+/home/wangyihu2020/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/wangyihu2020/sofa/TouchX_Status/src
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wangyihu2020/sofa/TouchX_Status/src/cmake-build-debug

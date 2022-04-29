@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libgetStatus.so -o libgetStatus.so CMakeFiles/getStatus.dir/getStatus.cpp.o  -lHD 

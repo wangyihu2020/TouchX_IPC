@@ -1,0 +1,3 @@
+/home/wangyihu2020/sofa/TouchX_Status/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wangyihu2020/sofa/TouchX_Status/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wangyihu2020/sofa/TouchX_Status/src/cmake-build-debug/CMakeFiles/getStatus.dir
